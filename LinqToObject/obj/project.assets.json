@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\DodUser\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\YURKO\\SHAG\\Project C#\\15_18072021_Lab_Взаємодія між вікнами_Linq to object\\Homework_LinqToObject\\LinqToObject\\LinqToObject\\LinqToObject.csproj",
+      "projectName": "LinqToObject",
+      "projectPath": "F:\\YURKO\\SHAG\\Project C#\\15_18072021_Lab_Взаємодія між вікнами_Linq to object\\Homework_LinqToObject\\LinqToObject\\LinqToObject\\LinqToObject.csproj",
+      "packagesPath": "C:\\Users\\DodUser\\.nuget\\packages\\",
+      "outputPath": "F:\\YURKO\\SHAG\\Project C#\\15_18072021_Lab_Взаємодія між вікнами_Linq to object\\Homework_LinqToObject\\LinqToObject\\LinqToObject\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DodUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

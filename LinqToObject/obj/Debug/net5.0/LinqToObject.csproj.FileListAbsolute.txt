@@ -1,0 +1,16 @@
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\bin\Debug\net5.0\LinqToObject.exe
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\bin\Debug\net5.0\LinqToObject.deps.json
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\bin\Debug\net5.0\LinqToObject.runtimeconfig.json
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\bin\Debug\net5.0\LinqToObject.runtimeconfig.dev.json
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\bin\Debug\net5.0\LinqToObject.dll
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\bin\Debug\net5.0\ref\LinqToObject.dll
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\bin\Debug\net5.0\LinqToObject.pdb
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\obj\Debug\net5.0\LinqToObject.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\obj\Debug\net5.0\LinqToObject.GeneratedMSBuildEditorConfig.editorconfig
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\obj\Debug\net5.0\LinqToObject.AssemblyInfoInputs.cache
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\obj\Debug\net5.0\LinqToObject.AssemblyInfo.cs
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\obj\Debug\net5.0\LinqToObject.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\obj\Debug\net5.0\LinqToObject.dll
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\obj\Debug\net5.0\ref\LinqToObject.dll
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\obj\Debug\net5.0\LinqToObject.pdb
+F:\YURKO\SHAG\Project C#\15_18072021_Lab_Взаємодія між вікнами_Linq to object\Homework_LinqToObject\LinqToObject\LinqToObject\obj\Debug\net5.0\LinqToObject.genruntimeconfig.cache
